@@ -1,0 +1,17 @@
+h1{
+  color: #6CA6CC;
+  font-size: 3rem;
+  text-transform: uppercase;
+  -webkit-columns: 12px;
+          columns: 12px;
+}
+
+.box__a{
+    height: 600px;
+    width: 300px;
+  }
+
+.box__b{
+    height: 300px;
+    width: 300px;
+  }
