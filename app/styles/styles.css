@@ -1,4 +1,5 @@
 $mainColor: #6CA6CC;
+$mainColor2: #8FCC6C;
 
 h1{
   color: $mainColor;
@@ -18,4 +19,10 @@ h1{
     height: 300px;
     width: 300px;
   }
+}
+
+h2{
+  color: $mainColor2;
+  font-size: 3rem;
+  text-transform: uppercase;
 }
